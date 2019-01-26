@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 The code have been test successfully on
 - Linux (Ubuntu 18.04 LTS)
 - Windows 10
-- macOS High Sierra
+- macOS High Sierra (run as sudo)
 
 Not working for the moment on macOS Mojave
 
