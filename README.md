@@ -1,7 +1,7 @@
 # Keylogger to midi
 
 This project is a exercise under the theme of the **Global surveillance** and **Surveillance state**  
-All project under this is theme are aim at transforming spying tool into creative tool.
+All project under this theme are aim at transforming spying tool into creative tool.
 
 ## Installation
 Require Python 3.6 and up
